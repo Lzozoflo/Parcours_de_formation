@@ -70,8 +70,8 @@
 
 >---
 >
->- [📘 Cours Open Classroom HTML & CSS][tag-openclassroom-basic-html]
->    - [📁 Github – HTML / CSS][tag-github-html-css]
+>>- [📘 Cours Open Classroom HTML & CSS][tag-openclassroom-basic-html]
+>>    - [📁 Github – HTML / CSS][tag-github-html-css]
 >   
 >---
 
@@ -79,8 +79,8 @@
 
 >---
 >
->- [📘 Cours Open Classroom JavaScript][tag-openclassroom-basic-javascript]
->    - [📁 Github – JavaScript][nothing yet]
+>>- [📘 Cours Open Classroom JavaScript][tag-openclassroom-basic-javascript]
+>>    - [📁 Github – JavaScript][nothing yet]
 >
 >---
 
