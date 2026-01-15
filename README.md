@@ -67,7 +67,10 @@
 
 ## 📘 Liste des cours
 
-### Suivis
+<details>
+    <summary>
+        <strong>Suivis</strong>
+    </summary>
 
 >---
 >
@@ -76,7 +79,12 @@
 >   
 >---
 
-### 📖 En cours de lecture
+</details>
+
+<details>
+    <summary>
+        <strong>📖 En cours de lecture</strong>
+    </summary>
 
 >---
 >
@@ -86,7 +94,12 @@
 >
 >---
 
-### ⏳ Prochainement à suivre
+</details>
+
+<details>
+    <summary>
+        <strong>⏳ Prochainement à suivre</strong>
+    </summary>
 
 >---
 >
@@ -110,6 +123,10 @@
 >>    - [📁 Github – Projet associé][]
 >
 >---
+
+
+</details>
+
 
 
 <!-- 
