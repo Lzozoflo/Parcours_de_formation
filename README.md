@@ -6,19 +6,22 @@
 <!-- 📘 🗎 🖋 👀 🗣 … -->
 <!-- Double-struck font -->
 <!-- 𝔸𝔹ℂ𝔻𝔼𝔽𝔾ℍ𝕀𝕁𝕂𝕃𝕄ℕ𝕆ℙℚℝ𝕊𝕋𝕌𝕍𝕎𝕏𝕐ℤ𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡 -->
+<!-- http://github.com/tandpfun/skill-icons#readme  -->
 
 
 <!-- [Tag-test]: url "on hover" -->
+
 
 <!-- Web -->
 [tag_openclassroom_html_basic]: https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3
 [tag_openclassroom_javascript_basic]: https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript
 [tag_openclassroom_javascript_dynamique]: https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript
 [tag_openclassroom_basic_react]: https://openclassrooms.com/fr/courses/8710331-debutez-avec-react
-<!-- [tag_openclassroom_react]: https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete -->
-<!-- [tag_openclassroom_avoir_un_site_en_ligne]: https://openclassrooms.com/fr/courses/7192596-mettez-en-ligne-votre-site-web -->
-<!-- [tag_openclassroom_figma]: https://openclassrooms.com/fr/courses/7342806-creez-une-maquette-web-avec-figma -->
+[tag_openclassroom_full_app_react]: https://openclassrooms.com/fr/courses/7150606-creez-une-application-react-complete
 <!-- [tag_openclassroom_typescript]: https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript -->
+<!-- [tag_openclassroom_avoir_un_site_en_ligne]: https://openclassrooms.com/fr/courses/7192596-mettez-en-ligne-votre-site-web -->
+<!-- [tag_openclassroom_web_test_cyber]: https://openclassrooms.com/fr/courses/7727176-realisez-un-test-d-intrusion-web -->
+<!-- [tag_openclassroom_figma]: https://openclassrooms.com/fr/courses/7342806-creez-une-maquette-web-avec-figma -->
 
 <!-- C - CPP -->
 [tag_openclassroom_c]: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
@@ -47,6 +50,11 @@
 <!-- [tag_openclassroom_frist_android]: https://openclassrooms.com/fr/courses/8150246-developpez-votre-premiere-application-android -->
 <!-- [tag_openclassroom_cree_sont_pc]: https://openclassrooms.com/fr/courses/7210326-montez-un-pc -->
 <!-- [tag_openclassroom_learn_to_learn]: https://openclassrooms.com/fr/courses/4312781-apprenez-a-apprendre -->
+<!-- [tag_openclassroom_]: https://openclassrooms.com/fr/courses/5162341-maitrisez-les-risques-juridiques-lies-au-numerique -->
+<!-- [tag_openclassroom_]: https://openclassrooms.com/fr/courses/6173491-apprenez-a-utiliser-la-ligne-de-commande-dans-un-terminal -->
+<!-- [tag_openclassroom_]:  -->
+<!-- [tag_openclassroom_]:  -->
+<!-- [tag_openclassroom_]:  -->
 <!-- [tag_openclassroom_]:  -->
 
 
@@ -88,6 +96,13 @@
 >>    - [📁 Github – HTML / CSS][tag_github_html_css]
 >   
 >---
+>
+>>- [📘 Cours Open Classroom JavaScript basics][tag_openclassroom_javascript_basic]
+>>- [📘 Cours Open Classroom JavaScript page dynamique][tag_openclassroom_javascript_dynamique]
+>>    - [📁 Github – JavaScript][tag_github_javascript]
+>
+>---
+
 
 </details>
 
@@ -98,9 +113,9 @@
 
 >---
 >
->>- [📘 Cours Open Classroom JavaScript basics][tag_openclassroom_javascript_basic]
->>- [📘 Cours Open Classroom JavaScript page dynamique][tag_openclassroom_javascript_dynamique]
->>    - [📁 Github – JavaScript][tag_github_javascript]
+>>- [📘 Cours Open Classroom Basics React][tag_openclassroom_basic_react]
+>>- [📘 Cours Open Classroom Une App avec React][tag_openclassroom_full_app_react]
+>>    - Objectif : un 1er pas dans react + voir comment faire une app
 >
 >---
 
@@ -111,11 +126,6 @@
         <strong>⏳ Prochainement à suivre</strong>
     </summary>
 
->---
->
->>- [📘 Cours Open Classroom React][tag_openclassroom_basic_react]
->>    - Objectif : un 1er pas dans react + voir comment faire une app
->
 >---
 >
 >>- [📘 Cours Open Classroom C][tag_openclassroom_c]
