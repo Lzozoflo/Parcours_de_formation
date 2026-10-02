@@ -4,3 +4,12 @@
 [submodule "openclassroom/TypeScript_openclassroom"]
 	path = openclassroom/TypeScript_openclassroom
 	url = git@github.com:Lzozoflo/TypeScript_openclassroom.git
+[submodule "openclassroom/HTML_CSS_openclassroom"]
+	path = openclassroom/HTML_CSS_openclassroom
+	url = git@github.com:Lzozoflo/HTML_CSS_openclassroom.git
+[submodule "openclassroom/React_openclassroom"]
+	path = openclassroom/React_openclassroom
+	url = git@github.com:Lzozoflo/React_openclassroom.git
+[submodule "Markdown"]
+	path = Markdown
+	url = git@github.com:Lzozoflo/Markdown.git
