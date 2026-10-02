@@ -1,0 +1,6 @@
+[submodule "openclassroom/JavaScript_openclassroom"]
+	path = openclassroom/JavaScript_openclassroom
+	url = git@github.com:Lzozoflo/JavaScript_openclassroom.git
+[submodule "openclassroom/TypeScript_openclassroom"]
+	path = openclassroom/TypeScript_openclassroom
+	url = git@github.com:Lzozoflo/TypeScript_openclassroom.git
